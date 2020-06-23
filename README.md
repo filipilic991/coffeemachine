@@ -1,2 +1,2 @@
 # coffeemachine
-Small project simulating coffee machine
+Intermediate level project simulating coffee machine using OOP concepts
